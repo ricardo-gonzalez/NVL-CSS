@@ -1,0 +1,9 @@
+<p>   
+   <span>Carla</span>
+   <span>Marina</span>
+   <span>Julia</span>
+</p>
+span {
+   color: #fabada;
+   style: #000000;
+}
