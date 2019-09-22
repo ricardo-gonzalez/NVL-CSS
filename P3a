@@ -1,0 +1,146 @@
+EJERCICIO 1
+
+HTML.txt
+<!DOCTYPE html> 
+<html>
+   <head>
+     <title>Viajes fin de curso</title>
+     <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+     <h1>Destinos más solicitados:</h1>
+     <p>Cancún, Punta Cana, Praga</p>
+     <h2>Donde nos econtramos:</h2>
+     <p>c/ Maudes nº8<p>
+     <h3>Contacto:<h3>
+     <p><912837443><p>    
+   </body>
+</html>
+
+style.css
+h1 {
+   color: black;
+   background-color: yellow;
+   border: 2px solid black;
+}
+
+p {
+   color: black;
+}
+h2 {
+   color: black;
+   background-color: pink;
+   border: 1px solid black;
+}
+
+p {
+   color: black;
+}
+h3 {
+   color: black;
+   background-color: blue;
+   border: 1px solid black;
+}
+
+p {
+   color: black;
+}
+
+
+
+EJERCICIO 2
+
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>Viajes fin de curso</title>
+     <style>
+       h1 {
+         color: black;
+         background-color: yellow;
+         border: 2px solid black;
+       }
+       p {
+         color: black;
+       }
+       h2 {
+         color: black;
+         background-color: pink;
+         border: 1px solid black;
+       }
+       p {
+         color: black;
+       }
+       h3 {
+         color: black;
+         background-color: blue;
+         border: 1px solid black;
+       }
+       p {
+         color: black;
+       }
+     </style>
+   </head>
+   <body>
+     <h1>Destinos más solicitados:</h1>
+     <p>Cancún, Punta Cana, Praga</p>
+     <h2>Donde nos econtramos:</h2>
+     <p>c/ Maudes nº8<p>
+     <h3>Contacto:<h3>
+     <p><912837443><p> 
+   </body>
+</html>
+
+
+EJERCICIO 3
+
+<!DOCTYPE html> 
+<html>
+   <head>
+     <title>Viajes fin de curso</title>
+   </head>
+   <body>
+     <h1 style="color: black;background-color: yellow;border: 2px solid black;">Destinos más solicitados:</h1>
+     <p style="color:black;">Cancún, Punta Cana, Praga</p>
+     <h2 style="color: black;background-color: pink;border: 1px solid black;">Donde nos econtramos:</h1>
+     <p style="color:black;">c/ Maudes nº8</p>
+     <h3 style="color: black;background-color: blue;border: 1px solid black;">Contacto:</h1>
+     <p style="color:black;">912837443</p>
+   </body>
+</html>
+
+
+EJERCICIO 4
+
+HTML.txt
+<!DOCTYPE html> 
+<html>
+   <head>
+   <title>Viajes fin de curso</title>
+   <link rel="stylesheet" href="style.css">
+     <style>
+       h1 {
+         color: black;
+         background-color: yellow;
+         border: 1px solid black;
+       }
+       p {
+         color: black;
+       }
+     </head>
+   <body>
+     <h2 style="color: black;background-color: pink;border: 1px solid black;">Donde nos econtramos:</h1>
+     <p style="color:black;">c/ Maudes nº8</p>
+   </body>
+</html>
+
+style.css
+h3 {
+   color: black;
+   background-color: blue;
+   border: 1px solid black;
+}
+
+p {
+   color: black;
+}
