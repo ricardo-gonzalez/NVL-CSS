@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <h1>FOTOS </h1>
+</header>
+</html>
+
+
+CSS
+Header{
+  background-color: purple;
+  margin: 10px solid red;
+  padding: 16px solid orange;
+  border: 32px solid yellow;
+}
