@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>  
+<section>
+   <h1>Tareas domingo</h1>
+      <p>Poner lavadora</p>
+      <a p>Hacer comidas para la semana</p></a>
+      <a p>Limpiar cocina</p></a>
+      <a p>Ejercicio 5 prework</p></a>
+  <div>
+    <h1>Tareas sabado</h1>
+      <p>Limpiar salon y habitacion</p>
+      <a p>Partido de baloncesto</p></a>
+      <a p>Cumpleaños Alicia</p></a>
+  </div>
+</section>
+</html>
+
+CSS
+section p {
+  border: #fabada 12px solid;
+}
+h1 + p {
+   font-size: 16pt !important;
+}
+a {
+   color: red;
+}
