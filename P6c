@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>  
+  <header>     
+    <p><strong>Tiempo de preparación:</strong> 45 minutos.</p>     
+    <p><strong>Tiempo elaboración:</strong> 1:15 minutos.</p>
+    <p><strong>Receta para 8 porciones</strong></p>     
+    <p><strong>Nivel de dificultad:</strong> BAJO</p>     
+  </header>
+  <body>
+    <h3><b>Ingredientes para el bizcocho:</b></h3>
+      <ul><li>2 tazas de harina</li>      
+        <li>2 tazas de azúcar</li>      
+        <li>2 cucharaditas de bicarbonato</li>      
+        <li>2 cucharaditas de canela</li>      
+        <li>1/2 cucharadita de sal</li>      
+        <li>1 taza y media de aceite</li>     
+        <li>4 huevos</li>      
+        <li>3 tazas de zanahoria rallada cruda</li>      
+        <li>1/2 taza de nuez picada y tostada al horno</li>     
+      </ul><h3><b>Ingredientes para la cobertura:</b></h3>     
+      <ul><li>1 paquete de queso philadelphia</li>
+        <li>1 barra de mantequilla</li>      
+        <li>450 gramos de azúcar glass</li>      
+        <li>2 cucharaditas de vainilla</li>     
+      </ul><h3><b>Preparación:</b></h3>
+        <ol><li><t>Para el pastel:</t> Echar en un bol la harina, azúcar, bicarbonato, canela y sal. Agregar el aceite y batir bien.&nbsp;</li>
+        <li><t>Después</t> añadir los huevos de uno en uno batiendo bien y las zanahorias y batir 5 minutos. Finalmente, añadir las nueces. Dividir la mezcla en dos moldes redondos engrasados y enharinados. Hornear 45 minutos a 180 grados.</li>      
+        <li><t>Para la cobertura:</t> Batir la mantequilla hasta que se quede cremosa, agregar el queso tibio y luego el azúcar y la vainilla. Batir hasta que quede una mezcla suave.</li> 
+        <li><t>Poner</t> una capa de queso sobre un pastel y poner el otro pastel encima. Finalmente solo quedaría cubrir el pastel con el queso crema y espolvorear nuez picada. También puedes poner un poco de zanahoria rallada por encima.</li></ol></body>
+  <footer>
+    <h3><b>El resultado debería ser algo similar a esto:</h3></b>
+    <img  height="300" width="500" data-alt="tarta de zanahoria"
+        class="tarta"  src="https://res.cloudinary.com/pxty/image/upload/c_scale,f_auto,q_60/v1/joltc1/~/media/growing-families-version1/gf-es/editorial-contents/articles/legacy-images/tarta-zanahoria-5-size-3.jpg?la=es-es&amp;v=1-201806120548&amp;hash=77CD6205D54885C6CEF489D4CCDD330342DF57B4">
+</html>
+
+CSS
+img{
+  vertical-align: middle;
+  border: 0;
+}
+h3{
+  color: orange;
+  text-decoration: underline;
+}
+t{
+  color:red;
+  font-weight:bold;
+}
